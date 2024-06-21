@@ -1,0 +1,41 @@
+[
+  {
+    "name": "spawn",
+    "coordinates": {
+      "x": 10,
+      "y": 64,
+      "z": -45
+    },
+    "item": {
+      "id": "minecraft:stone",
+      "count": 10
+    },
+    "period": 10
+  },
+  {
+    "name": "spawn1",
+    "coordinates": {
+      "x": 10,
+      "y": 64,
+      "z": -45
+    },
+    "item": {
+      "id": "minecraft:dirt",
+      "count": 10
+    },
+    "period": 100
+  },
+  {
+    "name": "spawn2",
+    "coordinates": {
+      "x": 50,
+      "y": 70,
+      "z": 30
+    },
+    "item": {
+      "id": "minecraft:dirt",
+      "count": 20
+    },
+    "period": 300
+  }
+]
